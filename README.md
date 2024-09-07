@@ -1,1 +1,1 @@
-# ivid
+# iVID — your personal online-cinema
